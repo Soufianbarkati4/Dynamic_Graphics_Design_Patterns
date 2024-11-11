@@ -3,6 +3,7 @@ Decorator, Observer, and Visitor Pattern Graphics Project
 
 
 *Project Overview :*
+
 This project is a C++ application that models a graphical system with shapes that can be decorated, observed, and analyzed. It utilizes the Decorator, Observer, and Visitor design patterns to allow dynamic styling, state observation, and calculations (e.g., perimeter and surface area) on shapes. By leveraging these design patterns, the project showcases extensibility and modularity, making it easier to manage complex graphical operations and computations.
 
 *Project Structure :*
